@@ -1,0 +1,10 @@
+INFO - 2020-08-22 16:16:47,772 - process: 11780 - main.py - myLogger - 5 - main - test
+INFO - 2020-08-22 16:26:13,287 - process: 14248 - main.py - myLogger - 21 - main - test
+INFO - 2020-08-22 16:30:40,686 - process: 15760 - main.py - myLogger - 22 - main - my_logger
+INFO - 2020-08-22 16:31:05,166 - process: 10712 - main.py - myLogger - 22 - main - my_logger
+INFO - 2020-08-22 16:32:24,853 - process: 9100 - main.py - myLogger - 22 - main - my_logger
+INFO - 2020-08-22 16:43:23,111 - process: 3308 - main.py - myLogger - 22 - main - my_logger
+INFO - 2020-08-22 16:50:52,229 - process: 17828 - main.py - myLogger - 22 - main - my_logger
+INFO - 2020-08-22 16:51:51,738 - process: 16604 - main.py - myLogger - 22 - main - my_logger
+INFO - 2020-08-22 16:54:19,194 - process: 784 - main.py - myLogger - 22 - main - my_logger
+INFO - 2020-08-22 16:56:42,954 - process: 15356 - main.py - myLogger - 22 - main - my_logger

@@ -1,0 +1,5 @@
+DEBUG - 08/22/2020 04:56:56 PM - process: 15356 - main.py - log_by_config - 13 - main - debug message
+INFO - 08/22/2020 04:56:56 PM - process: 15356 - main.py - log_by_config - 14 - main - info message
+WARNING - 08/22/2020 04:56:56 PM - process: 15356 - main.py - log_by_config - 15 - main - warn message
+ERROR - 08/22/2020 04:56:56 PM - process: 15356 - main.py - log_by_config - 16 - main - error message
+CRITICAL - 08/22/2020 04:56:56 PM - process: 15356 - main.py - log_by_config - 17 - main - critical message
